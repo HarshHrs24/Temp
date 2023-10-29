@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/HarshHrs24/Temp#readme",
   "dependencies": {
+    "axios": "^1.6.0",
     "leetcode-query": "^0.2.7"
   }
 }
