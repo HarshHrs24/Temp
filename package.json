@@ -1,0 +1,22 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "temp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshHrs24/Temp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshHrs24/Temp/issues"
+  },
+  "homepage": "https://github.com/HarshHrs24/Temp#readme",
+  "dependencies": {
+    "leetcode-query": "^0.2.7"
+  }
+}
