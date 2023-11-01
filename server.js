@@ -43,8 +43,6 @@ router.post('/getusers', async (req, res) => {
 
 app.use('/auth', router)
 
-// Create references to the database and collection in order to run
-// operations on them.
 
 
 
