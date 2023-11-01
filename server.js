@@ -7,8 +7,13 @@ const LeetCode = require("leetcode-query");
 const leetcode = new LeetCode.LeetCode();
 
 async function func(){
-    const user = await leetcode.user("AadityaNayak7");
-    console.log(user);
+    for(let i=0 ;i<5000;i++){
+        console.log(i);
+        console.log("-----------------------------------------------------------------------------------------x-------------------------------------------------------------------------------------");
+        const user = await leetcode.user("kshatriyas");
+        console.log(user);
+    }
+
 }
 
 func();
